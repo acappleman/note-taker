@@ -8,7 +8,7 @@ This note taker was created for a user to generate notes and delete them. The ap
 
 You can access the note taker using Heroku. 
 
-[Note Taker Link](https://acappleman.github.io/note-taker/)
+[Note Taker Link](https://note-taker-acappleman.herokuapp.com/)
 
 ## Credits
 
